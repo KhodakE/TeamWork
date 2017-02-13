@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace TeamWork
 {
-    class Program
+    class Worker
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hallo");
-        }
+        public int Age { get; set; }
+        public string Name { get; set; }
+
+        public void Method() { }
     }
 }
