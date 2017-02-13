@@ -11,6 +11,7 @@ namespace TeamWork
         public JayClass()
         {
             Console.WriteLine("Hello friend :)");
+            Console.WriteLine("Hallo ver.2.0");
         }
     }
 }
