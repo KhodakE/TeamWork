@@ -11,6 +11,7 @@ namespace TeamWork
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo");
+            Console.WriteLine("Hallo Version 2.0");
         }
     }
 }
